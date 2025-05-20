@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "./static/css/main.6dea0f05.chunk.css",
-    "main.js": "./static/js/main.a0b83190.chunk.js",
-    "main.js.map": "./static/js/main.a0b83190.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fc3cd5fd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fc3cd5fd.js.map",
-    "static/js/2.288e8a4b.chunk.js": "./static/js/2.288e8a4b.chunk.js",
-    "static/js/2.288e8a4b.chunk.js.map": "./static/js/2.288e8a4b.chunk.js.map",
+    "main.css": "./static/css/main.5b8c47d7.css",
+    "main.js": "./static/js/main.d9114a82.js",
+    "static/media/hira.jpeg": "./static/media/hira.49139b299dd4ad866951.jpeg",
+    "static/media/volkswagen.png": "./static/media/volkswagen.dcf643e58d792cbe62fe.png",
+    "static/media/tata.png": "./static/media/tata.1bcbe0e777afbdfb5aaf.png",
+    "static/media/thyssenkrup.png": "./static/media/thyssenkrup.674d9983f71a1f6f6953.png",
+    "static/media/bajaj.png": "./static/media/bajaj.1efef473741152b5b5fd.png",
+    "static/media/sparkonix.png": "./static/media/sparkonix.8406240591e4663a4981.png",
+    "static/media/cummins.png": "./static/media/cummins.7bd8e3ca5ca9626089f1.png",
+    "static/media/thermax.png": "./static/media/thermax.2a853b9903410f01b3cc.png",
+    "static/media/hytech.png": "./static/media/hytech.219c56c1a571dea963a9.png",
+    "static/media/randack.png": "./static/media/randack.598b0806f0e1ad8c6344.png",
+    "static/media/dran.jpg": "./static/media/dran.236799a65216c6340a27.jpg",
+    "static/media/siddheshwar.png": "./static/media/siddheshwar.2614612d95423efa9c34.png",
+    "static/media/bbm.png": "./static/media/bbm.c51f0acb5ae410dc08c9.png",
+    "static/media/gestamp.png": "./static/media/gestamp.f71b40eb599aca60703d.png",
+    "static/media/bfl.png": "./static/media/bfl.077b65f6dfb2fe45c26a.png",
+    "static/media/apt.png": "./static/media/apt.285d80c6f3c36a4d3f27.png",
+    "static/media/lnt.webp": "./static/media/lnt.7d59304a49d4cf318fb0.webp",
+    "static/media/inductotherm.png": "./static/media/inductotherm.3d8925a56b21014cad18.png",
+    "static/media/electronica.svg": "./static/media/electronica.d350ed0cf6d373d3fb6d0f23161efea7.svg",
+    "static/media/phillps.webp": "./static/media/phillps.8a58ccfd15ce33351967.webp",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "./index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.288e8a4b.chunk.js.LICENSE.txt": "./static/js/2.288e8a4b.chunk.js.LICENSE.txt"
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/SFS.svg": "./static/media/SFS.115bf6f30a180928a771b8bbed22cd05.svg",
+    "main.5b8c47d7.css.map": "./static/css/main.5b8c47d7.css.map",
+    "main.d9114a82.js.map": "./static/js/main.d9114a82.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc3cd5fd.js",
-    "static/js/2.288e8a4b.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a0b83190.chunk.js"
+    "static/css/main.5b8c47d7.css",
+    "static/js/main.d9114a82.js"
   ]
 }
