@@ -1,0 +1,59 @@
+.contact-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+    font-family: "Segoe UI", sans-serif;
+  }
+  
+  .contact-title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #005f73;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-subtitle {
+    text-align: center;
+    font-size: 1.9rem;
+    color: #555;
+    margin-bottom: 2rem;
+  }
+  
+  .units-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.6rem;
+    margin-bottom: 2rem;
+  }
+  
+  .unit-card {
+    background: #f0f0f0;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  }
+  
+  .unit-card h2 {
+    margin-top: 0;
+    color: #001219;
+    font-size: 1.6rem;
+  }
+  
+  .unit-card p {
+    margin: 0.5rem 0;
+    font-size: 1.3Srem;
+  }
+  
+  .map-section h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: #023047;
+  }
+  
+  .map-section iframe {
+    width: 100%;
+    border: 0;
+    border-radius: 10px;
+  }
+  

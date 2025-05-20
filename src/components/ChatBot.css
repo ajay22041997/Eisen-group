@@ -1,0 +1,193 @@
+/* Button */
+.chatbot-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #6200ea; /* deep purple */
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 28px;
+  cursor: pointer;
+  box-shadow: 0 6px 15px rgba(98, 0, 234, 0.6);
+  transition: background-color 0.3s ease;
+}
+.chatbot-toggle:hover {
+  background: #3700b3;
+}
+
+/* Popup chat window */
+/* Popup opening animation */
+@keyframes slideUpFade {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Popup closing animation */
+@keyframes slideDownFade {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}
+
+/* Use opening animation by default */
+.chatbot-popup {
+  animation: slideUpFade 0.4s ease forwards;
+}
+
+/* Apply closing animation when .closing class is present */
+.chatbot-popup.closing {
+  animation: slideDownFade 0.4s ease forwards;
+}
+
+.chatbot-popup {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 320px;
+  height: 420px;
+  background: #1e1e2f; /* dark background */
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(98, 0, 234, 0.7);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  /* Animation */
+  animation: slideUpFade 0.4s ease forwards;
+}
+
+@keyframes slideUpFade {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Header */
+.chatbot-header {
+  background: #6200ea;
+  color: white;
+  padding: 16px;
+  font-weight: 600;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+
+/* Close button */
+.close-btn {
+  cursor: pointer;
+  font-size: 22px;
+  font-weight: 700;
+  transition: color 0.3s ease;
+}
+.close-btn:hover {
+  color: #bb86fc;
+}
+
+/* Chat body */
+.chatbot-body {
+  flex: 1;
+  padding: 16px;
+  overflow-y: auto;
+  background: #2a2a3d;
+  color: #eee;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+/* Messages */
+.chat-message {
+  margin-bottom: 12px;
+  padding: 10px 14px;
+  border-radius: 20px;
+  max-width: 75%;
+  opacity: 0;
+  animation: fadeIn 0.4s ease forwards;
+  word-wrap: break-word;
+}
+
+/* Bot message */
+.chat-message.bot {
+  background: #6200ea;
+  color: white;
+  align-self: flex-start;
+  border-bottom-left-radius: 0;
+}
+
+/* User message */
+.chat-message.user {
+  background: #bb86fc;
+  color: #1e1e2f;
+  align-self: flex-end;
+  border-bottom-right-radius: 0;
+}
+
+/* Fade in animation for messages */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+/* Footer */
+.chatbot-footer {
+  display: flex;
+  padding: 14px 16px;
+  background: #1e1e2f;
+  border-top: 1px solid #444464;
+}
+
+.chatbot-footer input {
+  flex: 1;
+  padding: 10px 14px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  background: #444464;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+.chatbot-footer input::placeholder {
+  color: #b3b3cc;
+}
+
+.chatbot-footer input:focus {
+  background: #5e5e7e;
+}
+
+.chatbot-footer button {
+  margin-left: 12px;
+  padding: 10px 20px;
+  border-radius: 25px;
+  border: none;
+  background: #bb86fc;
+  color: #1e1e2f;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.chatbot-footer button:hover {
+  background: #9a6dfd;
+}

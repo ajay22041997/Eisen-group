@@ -1,0 +1,42 @@
+
+
+/* stats.css */
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fff;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+  }
+  
+  .stat-box {
+    flex: 1;
+    min-width: 150px;
+    text-align: center;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .stat-box:last-child {
+    border-right: none;
+  }
+  
+  .stat-icon {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .stat-label {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .stat-value {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+  }
+  

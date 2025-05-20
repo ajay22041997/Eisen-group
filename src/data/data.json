@@ -1,0 +1,153 @@
+{
+    "Header": {
+
+        "title": "Where Engineering meets Precision",
+        "paragraph": "Providing innpovative solutions since 1992."
+
+    },
+    "About": {
+        "paragraph": "Eisen Group providing innovative solutions Since 1992 With over a century of experience, Eisen Group has established itself as a leader in delivering high-performance engineering solutions. Our commitment to precision, innovation, and integrity has driven progress across industries, earning us the trust of clients worldwide. We engineer with purpose — building the future with every project.",
+        "Why": [
+            "Trusted Expertise",
+            "Commitment to Quality",
+            "Customer-Centric Approach",
+            "Proven Results"
+        ],
+        "Why2": [
+            "Seamless Experience",
+            "Innovation-Driven",
+            "Reliable Support"
+            
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-pie-chart",
+            "name": "Conveyor System",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Bello",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Industrial Wiper",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Rollway Covers",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Telescopic Cover",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Expansion joints",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Acrylic",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Safety Guarding",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Spring Coil Cover",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Engineering Design",
+            "text": "Engineering design is the process of creating solutions to solve specific problems by applying scientific principles and technology. It involves defining the problem, brainstorming ideas, and developing prototypes that are tested and refined to meet performance, safety, and cost requirements. The goal is to create functional, efficient, and practical solutions that address user needs and real-world challenges."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Manufacturing",
+            "text": "Manufacturing is the process of producing goods on a large scale using machinery, tools, and labor. It involves converting raw materials into finished products through various techniques such as casting, machining, and assembly. The goal of manufacturing is to produce high-quality items efficiently, meeting both design specifications and cost requirements. It plays a critical role in industries ranging from automotive to electronics, driving economic growth and enabling mass production of essential products."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Service",
+            "text": "A service is an intangible product that involves performing tasks or providing expertise to meet the needs of customers. Unlike physical goods, services focus on delivering value through actions, such as consulting, repairs, or customer support. The key to service success lies in its quality, customer satisfaction, and the ability to consistently meet or exceed expectations. Industries like healthcare, finance, and hospitality rely heavily on services to enhance user experiences and drive business growth."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "R & D",
+            "text": "Research and Development (R&D) is the process of exploring new ideas, technologies, and methods to innovate and improve products, services, or processes. It involves conducting experiments, testing hypotheses, and developing prototypes to address market needs or solve existing problems. R&D is essential for driving technological advancements and maintaining competitiveness in industries like pharmaceuticals, technology, and engineering. The goal is to create groundbreaking solutions that can lead to new products, enhance efficiency, or open up new markets."
+        }
+    ]
+}

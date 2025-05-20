@@ -1,0 +1,102 @@
+.footer {
+    background-color: #fff;
+    border-top: 1px solid #e5e5e5;
+    padding: 60px 20px;
+    font-family: 'Arial', sans-serif;
+    color: #444;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 40px;
+  }
+  
+  .footer-column h4 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column ul li a {
+    text-decoration: none;
+    color: #666;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-column ul li a:hover {
+    color: #000;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    gap: 10px; /* Adds space between logo and brand name */
+    cursor: pointer; /* Makes it feel clickable */
+    transition: transform 0.3s ease;
+  }
+  
+  .footer-logo img {
+    width: 100px;      /* Increased from 32px to 48px */
+    height: 100px;
+    transition: transform 0.3s ease;
+  }
+  
+  .footer-logo:hover img {
+    transform: scale(1.1); /* Slight zoom on hover */
+  }
+  
+  .footer-logo:hover {
+    transform: translateY(-2px); /* Subtle lift effect */
+  }
+  .brand-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .description {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 12px;
+  }
+  
+  .contact-number {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 12px;
+    margin-top: 8px;
+  }
+  
+  .social-icons a {
+    font-size: 18px;
+    color: #666;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff;
+  }
+  
+  .copyright {
+    font-size: 13px;
+    color: #aaa;
+    margin-top: 20px;
+  }
+  
