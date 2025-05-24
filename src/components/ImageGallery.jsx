@@ -2,21 +2,33 @@ import React, { useState } from 'react';
 import './ImageGallery.css';
 
 const images = [
-  { src: '/images/img1.jpeg', caption: 'Telescopic Cover' },
-  { src: '/images/img2.jpeg', caption: 'Lonely Boat' },
-  { src: '/images/img3.jpeg', caption: 'Golden Dome' },
-  { src: '/images/img4.jpeg', caption: 'Hands & Coffee' },
-  { src: '/images/img5.jpeg', caption: 'Fireworks' },
-  { src: '/images/img6.jpeg', caption: 'Night Bridge' },
-  { src: '/images/img7.jpeg', caption: 'Pizza Time' },
-  { src: '/images/img8.jpeg', caption: 'Safety guarding' },
-  { src: '/images/img9.jpeg', caption: 'Telescopic Cover' },
-  { src: '/images/img10.jpeg', caption: 'Lonely Boat' },
-  { src: '/images/img11.jpeg', caption: 'Golden Dome' },
-  { src: '/images/img12.jpeg', caption: 'Golden Dome' },
+  
   { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
   {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  
+  
+  
+  
+  
+  
+  
+  
   
 ];
 

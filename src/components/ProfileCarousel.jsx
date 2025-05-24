@@ -88,7 +88,7 @@ const profiles = [
   },
   {
     id: 12,
-    name: "Mr. Siddhart",
+    name: "Mr. Siddhart Walhekar ",
     title: "Purchase Executive",
     avatar: "",
     background: "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?auto=format&fit=crop&w=800&q=60",
@@ -108,7 +108,7 @@ const ProfileCarousel = () => {
   return (
     <div className="carousel-container" id ='profile'>
       <Swiper
-        slidesPerView={5}
+        slidesPerView={3}
         spaceBetween={30}
         pagination={{ clickable: true }}
         autoplay={{

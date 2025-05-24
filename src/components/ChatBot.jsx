@@ -1,14 +1,34 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./ChatBot.css";
 
 const ChatBot = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const [isClosing, setIsClosing] = useState(false);
   const [messages, setMessages] = useState([
     { from: "bot", text: "Hi! How can I help you?" }
   ]);
   const [input, setInput] = useState("");
 
-  const toggleChat = () => setIsOpen(!isOpen);
+  // Handle open/close with animation
+  const toggleChat = () => {
+    if (isOpen) {
+      // start closing animation
+      setIsClosing(true);
+    } else {
+      setIsOpen(true);
+    }
+  };
+
+  // After closing animation ends, hide the popup
+  useEffect(() => {
+    if (isClosing) {
+      const timer = setTimeout(() => {
+        setIsClosing(false);
+        setIsOpen(false);
+      }, 400); // match animation duration in ms
+      return () => clearTimeout(timer);
+    }
+  }, [isClosing]);
 
   const handleSend = () => {
     if (!input.trim()) return;
@@ -37,8 +57,8 @@ const ChatBot = () => {
         💬
       </button>
 
-      {isOpen && (
-        <div className="chatbot-popup">
+      {(isOpen || isClosing) && (
+        <div className={`chatbot-popup ${isClosing ? "closing" : ""}`}>
           <div className="chatbot-header">
             ChatBot
             <span className="close-btn" onClick={toggleChat}>×</span>
@@ -68,3 +88,4 @@ const ChatBot = () => {
 };
 
 export default ChatBot;
+ 

@@ -1,3 +1,4 @@
+import eisenlogo from '../logos/eisenlogo.jpg'
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,9 +16,11 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-         Eisen Group
-          </a>{' '}
+          <div className="footer-logo">
+            <img src={eisenlogo} alt="eisenlogo.jpg" />
+            <span className="brand-name">EISEN GROUP</span>
+          </div>
+         
         </div>
 
         <div
