@@ -9,22 +9,22 @@ const VisionMission = () => {
           <div className="feature">
             <div className="icon-circle">💡</div>
             <h3>BE THE BEST</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p></p>
           </div>
           <div className="feature">
             <div className="icon-circle">🎖️</div>
             <h3>GREAT SUPPORT</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p></p>
           </div>
           <div className="feature">
             <div className="icon-circle">📝</div>
             <h3>BE INNOVATIVE</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p></p>
           </div>
           <div className="feature">
             <div className="icon-circle">🖼️</div>
             <h3>INDUSTRY UPDATED</h3>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <p></p>
           </div>
         </div>
       </div>
