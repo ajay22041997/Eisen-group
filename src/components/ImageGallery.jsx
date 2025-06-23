@@ -3,24 +3,26 @@ import './ImageGallery.css';
 
 const images = [
   
-  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
-  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img1.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img2.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img3.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img4.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img5.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
-  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
-  {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  { src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+    {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
   {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
   {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
-  {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+    {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
   {src: '/images/img14.jpeg ', caption: 'NRB Bearing Conveyor  '},
   {src: '/images/img15.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img13.jpeg', caption: 'Inductotherm Group ' },
+  {src: '/images/img5.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  {src: '/images/img4.jpeg ', caption: 'NRB Bearing Conveyor  '},
+  
+  
   
   
   

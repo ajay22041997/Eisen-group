@@ -38,32 +38,37 @@
         {
             "icon": "fa fa-pie-chart",
             "name": "Rollway Covers",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
             "icon": "fa fa-pie-chart",
             "name": "Telescopic Cover",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
         },
         {
             "icon": "fa fa-pie-chart",
             "name": "Expansion joints",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "."
         },
         {
             "icon": "fa fa-pie-chart",
             "name": "Acrylic",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "."
         },
         {
             "icon": "fa fa-pie-chart",
             "name": "Safety Guarding",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "."
         },
         {
             "icon": "fa fa-pie-chart",
             "name": "Spring Coil Cover",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Machine Fixtures",
+            "text": ""
         }
 
 

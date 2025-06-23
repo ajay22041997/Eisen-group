@@ -68,7 +68,7 @@
     height: 100%;
     object-fit: cover;
     z-index: 0;
-    filter: blur(4px) brightness(0.6); /* <-- blur & dim */
+    filter: blur(2px) brightness(1.5); /* <-- blur & dim */
     transform: scale(1.05); /* Slight zoom to hide edges from blur */
   }
   

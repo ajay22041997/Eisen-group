@@ -61,7 +61,7 @@ const App = () => {
 
    
       
-      <Testimonials data={landingPageData.Testimonials} />
+    
       <Blogsection />
       <ContactPage />
       <ChatBot/>

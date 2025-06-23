@@ -95,7 +95,7 @@ const profiles = [
   },
   {
     id: 13,
-    name: "Emily Davis",
+    name: "Mr. Sainath Shingatwad",
     title: "Project Manager",
     avatar: "",
     background: "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?auto=format&fit=crop&w=800&q=60",
@@ -109,7 +109,9 @@ const ProfileCarousel = () => {
     <div className="carousel-container" id ='profile'>
       <Swiper
         slidesPerView={3}
-        spaceBetween={30}
+        spaceBetween={50
+
+        }
         pagination={{ clickable: true }}
         autoplay={{
           delay: 2500,

@@ -1,5 +1,5 @@
 import ParticlesBg from "particles-bg";
-
+import bgvideo from "..//data/bgvideo.mp4";
 
 import React from "react";
 import "./Hero.css";
@@ -11,7 +11,7 @@ export const Header = (props) => {
       {/* Background video */}
       <video
         className="hero-video"
-        src="https://www.w3schools.com/howto/rain.mp4" // Replace with your mechanical invention video link
+        src={bgvideo} // Replace with your mechanical invention video link
         autoPlay
         muted
         loop
