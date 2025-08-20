@@ -100,7 +100,13 @@ const profiles = [
     avatar: "",
     background: "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?auto=format&fit=crop&w=800&q=60",
   },
-  
+  {
+    id: 13,
+    name: "Mr. Dara Rathod",
+    title: "Design Engineer",
+    avatar: "",
+    background: "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?auto=format&fit=crop&w=800&q=60",
+  },
   // (Continue filling others similarly)
 ];
 
