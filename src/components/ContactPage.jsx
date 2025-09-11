@@ -11,20 +11,20 @@ const units = [
   {
     name: "Unit 2 - Eisen Traders",
     address: "Survey No: 25/11, near Prabhat Press, Narhe, behind Dhiraj Company, Trimurti Company Lane, Narhe",
-    phone: "",
-    email: "fabrication@mechanicalco.com",
+    phone: "+91-9922939695",
+    email: "digvijaydjoshi@gmail.com",
   },
   {
     name: "Unit 3 - Eisen Schutz and Machine Komponenten",
     address: "Eisen Schutz and Machine Komponenten, Narhe, Pune-411041",
     phone: "+1 555-123-0003",
-    email: "assembly@mechanicalco.com",
+    email: "digvijaydjoshi@gmail.com",
   },
   {
     name: "Unit 4 - Safetech Engineering ",
     address: "S-31, MIDC Chikalthane , Chh. Sambhaji Nagar- 431006",
     phone: "+",
-    email: "rnd@mechanicalco.com",
+    email: "info.safetech@gmail.com",
   },
   {
     name: "Unit 5 - Eisen Engineering Works",
