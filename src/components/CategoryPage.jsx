@@ -8,25 +8,39 @@ const CategoryPage = () => {
 
   const categories = [
     {
-      image: "https://picsum.photos/id/100/400/200",
+      image: "/images/Bellow.png",
       title: "Bellow",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam distinctio maxime.",
-      buttonText: "Go Anywhere",
+      buttonText: "See More ",
     },
     {
-      image: "https://picsum.photos/id/1011/400/200",
+      image: "/images/inclined conveyor.jpg",
       title: "Conveyor",
       description:
         "Sapiente temporibus cum quisquam totam voluptatum asperiores. Necessitatibus repellendus!",
-      buttonText: "Go Anywhere",
+      buttonText: "See More",
     },
     {
-      image: "https://picsum.photos/id/1025/400/200",
+      image: "/images/telescopic cover.jpeg",
       title: "Telescopic-cover",
       description:
         "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
-      buttonText: "Go Anywhere",
+      buttonText: "See More",
+    },
+    {
+      image: "/images/telescopic cover.jpeg",
+      title: "Telescopic-cover",
+      description:
+        "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
+      buttonText: "See More",
+    },
+    {
+      image: "/images/telescopic cover.jpeg",
+      title: "Telescopic-cover",
+      description:
+        "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
+      buttonText: "See More",
     },
   ];
 

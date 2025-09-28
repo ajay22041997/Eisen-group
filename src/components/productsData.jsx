@@ -19,7 +19,7 @@ const productsData = {
     { id: 4, name: "Flat Hinged Belt Conveyor ", price: "$199", image: "/images/flat hinged belt conveyor.webp" },
      { id: 3, name: "Modular Conveyor ", price: "$299", image: "/images/Modular Conveyor.jpg" },
     { id: 4, name: "Roller Conveyor ", price: "$199", image: "/images/roller conveyor.jpg" },
-    { id: 3, name: "Inclined Conveyor ", price: "$299", image: "images/inclined conveyor.jpg" },
+    { id: 3, name: "Inclined Conveyor ", price: "$299", image: "/images/inclined conveyor.jpg" },
     { id: 4, name: "Belt Conveyor ", price: "$199", image: "/images/Flat Belt Conveyor.jpg" },
     { id: 3, name: "Magnetic Conveyor  ", price: "$299", image: "/images/magnetic conveyor.jpg" },
     { id: 4, name: "Scrapper Conveyor  ", price: "$199", image: "/images/scrapper conveyor.jpg" },
