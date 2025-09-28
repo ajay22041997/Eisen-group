@@ -73,7 +73,7 @@ const Factory = () => {
         dots: false,
         infinite: true,
         speed: 8000,
-        rows:3, // show 2 lines
+        rows:1, // show 2 lines
         slidesPerRow: 2, // 3 logos per row (adjust as needed)
         autoplay: true,
         autoplaySpeed: 0,

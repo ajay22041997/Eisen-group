@@ -29,15 +29,22 @@ const CategoryPage = () => {
       buttonText: "See More",
     },
     {
-      image: "/images/telescopic cover.jpeg",
-      title: "Telescopic-cover",
+      image: "/images/Rollway Cover.jpg",
+      title: "Rollway Cover",
       description:
         "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
       buttonText: "See More",
     },
     {
-      image: "/images/telescopic cover.jpeg",
-      title: "Telescopic-cover",
+      image: "/images/Machine Enclosure.jpg",
+      title: " Machine Enclosure",
+      description:
+        "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
+      buttonText: "See More",
+    },
+    {
+      image: "/images/Apron Cover.jpg",
+      title: " Apron Cover",
       description:
         "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
       buttonText: "See More",
