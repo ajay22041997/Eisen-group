@@ -85,7 +85,7 @@ const Factory = () => {
   return (
     <div className="container">
 <div className="trusted-container">
-      <h2 className="trusted-title">Trusted By 150 + companies worldwide</h2>
+      <h2 className="trusted-title">Trusted By 300 + companies worldwide</h2>
       <Slider {...settings}>
         {logos.map((logo, index) => (
           <div key={index} className="logo-slide">
