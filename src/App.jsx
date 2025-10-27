@@ -14,6 +14,7 @@ import CategoryPage from "./components/CategoryPage";
 import ProductCard from "./components/ProductCard";
 import productsData from "./components/productsData";
 import Programs from './components/Programs'
+import Snapgallery from './components/Snapgallery'
 
 
 import  Blogsection  from './components/Blogsection';
@@ -105,6 +106,7 @@ const App = () => {
       
     
       <Blogsection />
+       <Snapgallery />
       <ContactPage />
       <ChatBot/>
       <Footer />

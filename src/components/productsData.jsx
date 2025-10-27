@@ -1,18 +1,18 @@
 // productsData.js
 const productsData = {
   bellow: [
-    { id: 1, name: "Fabric Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 2, name: "Thermic Welded Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
-      { id: 3, name: "Lamella Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 4, name: "Scissor Lift Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
-      { id: 5, name: "LM Rail Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 6, name: "Rack Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
-     { id: 7, name: "Plain Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 8, name: "Aluminium Coated Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
-      { id: 9, name: "Nytral Coated Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 10, name: "Axis Guideway Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
-      { id: 11, name: "Axis Guideway Bellow ", price: "$499", image: "https://picsum.photos/id/200/200" },
-    { id: 12, name: "Axis Guideway Bellow ", price: "$499", image: "https://picsum.photos/id/201/200" },
+    { id: 1, name: "Fabric Bellow ", price: "$499", image: "/images/bellow.png" },
+    
+      { id: 3, name: "Lamella Bellow ", price: "$499", image: "/images/lamella bellow.jpg" },
+    { id: 4, name: "Scissor Lift Bellow ", price: "$499", image: "/images/scissor lift bellow.png" },
+      { id: 5, name: "LM Rail Bellow ", price: "$499", image: "/images/lm rail bellow.jpg" },
+    { id: 6, name: "Rack Bellow ", price: "$499", image: "/images/rack bellow.jpg" },
+     { id: 7, name: "Scissor Bellow ", price: "$499", image: "/images/scissor bellow.jpg" },
+    { id: 8, name: "Aluminium Coated Bellow ", price: "$499", image: "/images/aluminium coated bellow.webp" },
+      { id: 9, name: "Nytral Coated Bellow ", price: "$499", image: "/images/nytral coated bellow.webp" },
+   { id: 9, name: "Expansion joint  ", price: "$499", image: "/images/expansion joints.jpg" },
+   { id: 9, name: "Rubber Expansion joint  ", price: "$499", image: "/images/rubber expansion joints.jpg" },
+   
   ],
   conveyor: [
     

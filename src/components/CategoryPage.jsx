@@ -11,19 +11,19 @@ const CategoryPage = () => {
       image: "/images/Bellow.png",
       title: "Bellow",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam distinctio maxime.",
+        "Bellow cover for protection of the lm rails ans guideways to ensure the smoother function and precision for the machining.",
       buttonText: "See More ",
     },
     {
       image: "/images/inclined conveyor.jpg",
       title: "Conveyor",
       description:
-        "Sapiente temporibus cum quisquam totam voluptatum asperiores. Necessitatibus repellendus!",
+        "For smooth and convinient work flow in manufacturing industries conveyor system is used ",
       buttonText: "See More",
     },
     {
       image: "/images/telescopic cover.jpeg",
-      title: "Telescopic-cover",
+      title: "Telescopiccover",
       description:
         "Distinctio maxime, sapiente temporibus cum quisquam totam voluptatum asperiores.",
       buttonText: "See More",
