@@ -28,6 +28,13 @@ import ContactPage from './components/ContactPage'
 import ProfileCarousel from './components/ProfileCarousel'
 import ImageGallery from './components/ImageGallery'
 import ChatBot from './components/ChatBot'
+import Catogaries from './components/Catogaries'
+import CatogaryCard1 from './components/CatogaryCard1'
+
+
+
+
+
 function ProductsPage() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
@@ -100,12 +107,17 @@ const App = () => {
         
       />
   
-      <ImageGallery/>
+      
 
    
       
     
       <Blogsection />
+       <Catogaries/>
+       <CatogaryCard1/>
+
+        
+
     
       <ContactPage />
       <ChatBot/>
